@@ -8,7 +8,7 @@ O total arrecadado até o momento foi de R$ ??,??. Todas as doações foram real
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/stories/highlights/18082089718295122/).
 
 ## Dia 18 de fevereiro
-<table>
+<div class="tg-wrap"><table>
 <thead>
   <tr>
     <th>Quantidade</th>
@@ -364,7 +364,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
     <td>R$ 2.385,64</td>
   </tr>
 </tbody>
-</table>
+</table></div>
 
 Você pode consultar a NFC-e pelo site [www.fazenda.rj.gov.br/nfce/consulta](www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
 
