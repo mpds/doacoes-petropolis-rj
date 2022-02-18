@@ -142,7 +142,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">Pasta de dentes infantil ( 0-2 anos)</td>
+    <td class="tg-c3ow">Pasta de dentes infantil (0-2 anos)</td>
     <td class="tg-c3ow">-</td>
     <td class="tg-c3ow">1 unidade (50g)</td>
     <td class="tg-c3ow">4 unidades</td>
@@ -151,7 +151,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   </tr>
   <tr>
     <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">Pasta de dentes infantil ( &gt; 2 anos)</td>
+    <td class="tg-c3ow">Pasta de dentes infantil (2 anos)</td>
     <td class="tg-c3ow">-</td>
     <td class="tg-c3ow">1 unidade (50g)</td>
     <td class="tg-c3ow">5 unidades</td>
@@ -377,5 +377,5 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 </tbody>
 </table></div>
 
-Você pode consultar a NFC-e pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
 
