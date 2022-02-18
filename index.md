@@ -8,46 +8,363 @@ O total arrecadado até o momento foi de R$ ??,??. Todas as doações foram real
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/stories/highlights/18082089718295122/).
 
 ## Dia 18 de fevereiro
-| Quantidade |                Produto               |  Tamanho  |     Unidade     |     Total    | Valor unitário | Valor total do item |
-|:----------:|:------------------------------------:|:---------:|:---------------:|:------------:|----------------|---------------------|
-|      6     |           Fralda geriatrica          |     M     |    8 unidades   |  48 unidades |       R$ 16,30 |            R$ 97,80 |
-|      5     |           Fralda geriatrica          |     G     |    8 unidades   |  40 unidades |       R$ 17,30 |            R$ 86,50 |
-|      5     |           Fralda geriatrica          |    XGG    |    8 unidades   |  40 unidades |       R$ 17,30 |            R$ 86,50 |
-|      3     |            Fralda infantil           |    XXG    |   66 unidades   | 198 unidades |       R$ 55,00 |           R$ 165,00 |
-|      2     |            Fralda infantil           |    XG     |   78 unidades   | 234 unidades |       R$ 55,00 |           R$ 110,00 |
-|      3     |            Fralda infantil           |     G     |   72 unidades   | 216 unidades |       R$ 55,00 |           R$ 165,00 |
-|      1     |            Fralda infantil           |     M     |   80 unidades   | 240 unidades |       R$ 74,40 |            R$ 74,40 |
-|      2     |            Fralda infantil           |     P     |   48 unidades   |  96 unidades |       R$ 40,60 |            R$ 81,20 |
-|     20     |           Lenço umidecido            |     -     |   48 unidades   | 960 unidades |        R$ 5,49 |           R$ 109,80 |
-|      4     |          Sabonete para bebes         |     -     |    1 unidade    |  20 unidades |       R$ 25,80 |           R$ 103,20 |
-|      2     |              Sabonete                |     -     |   12 unidades   |  24 unidades |       R$ 12,00 |            R$ 24,00 |
-|      1     |    Sabonete  para higiene das mãos   |     -     |        5L       |   5 litros   |       R$ 30,50 |            R$ 30,50 |
-|      4     | Pasta de dentes infantil ( 0-2 anos) |     -     | 1 unidade (50g) |  4 unidades  |        R$ 3,89 |            R$ 15,56 |
-|      5     | Pasta de dentes infantil ( > 2 anos) |     -     | 1 unidade (50g) |  5 unidades  |        R$ 5,40 |            R$ 27,00 |
-|      2     |            Pasta de dentes           |     -     | 1 unidade (90g) |  12 unidades |       R$ 17,20 |            R$ 34,40 |
-|      3     |        Escova de dentes adulto       |           | 2 unidades      |  6 unidades  |       R$ 12,10 |            R$ 36,30 |
-|      7     |        Escova de dentes adulto       |           | 2 unidades      |  14 unidades |       R$ 12,70 |            R$ 88,90 |
-|     10     |      Escova de dentes infantil       |           | 2 unidades      |      20      |        R$ 6,99 |            R$ 69,90 |
-|      6     |               Barbeador              |     -     |    7 unidades   |  35 unidades |        R$ 9,20 |            R$ 55,20 |
-|      1     |       Desodorante aer feminino       |     -     |   12 unidades   |  12 unidades |       R$ 91,80 |            R$ 91,80 |
-|     12     |       Desodorante aer masculino      |     -     |    1 unidades   |  12 unidades |        R$ 8,15 |            R$ 97,80 |
-|      1     |         Absorventes femininos        |     -     |   32 unidades   | 256 unidades |       R$ 63,92 |            R$ 63,92 |
-|      4     |                 Cloro                |     5L    |    2 unidades   |   40 litros  |       R$ 15,80 |            R$ 63,20 |
-|      4     |              Sabão em pó             |    5kgs   |    1 unidade    |     20kgs    |       R$ 18,90 |            R$ 75,60 |
-|      1     |              Detergente              |           |   24 unidades   |   12 litros  |       R$ 49,20 |            R$ 49,20 |
-|     10     |              Alcool 70%              |     1L    |    1 unidades   |   10 litros  |        R$ 6,19 |            R$ 61,90 |
-|      6     |               Esponja                |           |    4 unidades   |  24 unidades |        R$ 3,05 |            R$ 18,30 |
-|      3     |            Papel higiênico           |    250m   |    8 unidades   |  24 unidades |       R$ 56,00 |           R$ 168,00 |
-|      4     |             Desinfetante             |     5L    |    1 unidades   |   20 litros  |        R$ 9,90 |            R$ 39,60 |
-|      2     |            Toalha de papel           |           |  1000 unidades  |  2000 folhas |       R$ 15,20 |            R$ 30,40 |
-|      4     |               Fósforo                | 10 caixas |   50 unidades   |   40 caixas  |        R$ 3,69 |            R$ 14,76 |
-|      2     |             Saco de lixo             |    50L    |   50 unidades   | 100 unidades |       R$ 10,10 |            R$ 20,20 |
-|      6     |           Escova de limpeza          |     -     |    1 unidade    |  6 unidades  |        R$ 4,50 |            R$ 27,00 |
-|      5     |               Vassoura               |     -     |    1 unidade    |  5 unidades  |        R$ 5,50 |            R$ 27,50 |
-|      4     |   Saco alvejado (pano para limpeza)  |           |    3 unidades   | 12 unidades  |       R$ 10,20 |            R$ 40,80 |
-|      2     |              Pá de lixo              |     -     |    1 unidade    |  2 unidades  |        R$ 5,95 |            R$ 11,90 |
-|      5     |                 Balde                |     -     |    1 unidade    |  4 unidades  |        R$ 4,50 |            R$ 22,50 |
-|            |                                      |           |                 |              |     **Total:** |     **R$ 2.385,64** |
+<table>
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>6</td>
+    <td>Fralda geriatrica</td>
+    <td>M</td>
+    <td>8 unidades</td>
+    <td>48 unidades</td>
+    <td>R$ 16,30</td>
+    <td>R$ 97,80</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Fralda geriatrica</td>
+    <td>G</td>
+    <td>8 unidades</td>
+    <td>40 unidades</td>
+    <td>R$ 17,30</td>
+    <td>R$ 86,50</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Fralda geriatrica</td>
+    <td>XGG</td>
+    <td>8 unidades</td>
+    <td>40 unidades</td>
+    <td>R$ 17,30</td>
+    <td>R$ 86,50</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Fralda infantil</td>
+    <td>XXG</td>
+    <td>66 unidades </td>
+    <td>198 unidades</td>
+    <td>R$ 55,00</td>
+    <td>R$ 165,00</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Fralda infantil</td>
+    <td>XG </td>
+    <td>78 unidades</td>
+    <td>234 unidades</td>
+    <td>R$ 55,00</td>
+    <td>R$ 110,00</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Fralda infantil</td>
+    <td>G</td>
+    <td>72 unidades</td>
+    <td>216 unidades</td>
+    <td>R$ 55,00</td>
+    <td>R$ 165,00</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fralda infantil</td>
+    <td>M</td>
+    <td>80 unidades</td>
+    <td>240 unidades</td>
+    <td>R$ 74,40</td>
+    <td>R$ 74,40</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Fralda infantil</td>
+    <td>P</td>
+    <td>48 unidades</td>
+    <td>96 unidades</td>
+    <td>R$ 40,60</td>
+    <td>R$ 81,20</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Lenço umidecido </td>
+    <td>-</td>
+    <td>48 unidades </td>
+    <td>960 unidades</td>
+    <td>R$ 5,49</td>
+    <td>R$ 109,80</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Sabonete para bebes</td>
+    <td>-</td>
+    <td>1 unidade</td>
+    <td>20 unidades</td>
+    <td>R$ 25,80</td>
+    <td>R$ 103,20</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sabonete&nbsp;&nbsp;</td>
+    <td>-</td>
+    <td>12 unidades </td>
+    <td>24 unidades</td>
+    <td>R$ 12,00</td>
+    <td>R$ 24,00</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Sabonete&nbsp;&nbsp;para higiene das mãos</td>
+    <td>-</td>
+    <td>5L</td>
+    <td>5 litros</td>
+    <td>R$ 30,50</td>
+    <td>R$ 30,50</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pasta de dentes infantil ( 0-2 anos)</td>
+    <td>-</td>
+    <td>1 unidade (50g)</td>
+    <td>4 unidades</td>
+    <td>R$ 3,89</td>
+    <td>R$ 15,56</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Pasta de dentes infantil ( &gt; 2 anos)</td>
+    <td>-</td>
+    <td>1 unidade (50g)</td>
+    <td>5 unidades</td>
+    <td>R$ 5,40</td>
+    <td>R$ 27,00</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Pasta de dentes</td>
+    <td>-</td>
+    <td>1 unidade (90g)</td>
+    <td>12 unidades</td>
+    <td>R$ 17,20</td>
+    <td>R$ 34,40</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Escova de dentes adulto</td>
+    <td></td>
+    <td>2 unidades</td>
+    <td>6 unidades</td>
+    <td>R$ 12,10</td>
+    <td>R$ 36,30</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Escova de dentes adulto</td>
+    <td></td>
+    <td>2 unidades</td>
+    <td>14 unidades</td>
+    <td>R$ 12,70</td>
+    <td>R$ 88,90</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Escova de dentes infantil </td>
+    <td></td>
+    <td>2 unidades</td>
+    <td>20</td>
+    <td>R$ 6,99</td>
+    <td>R$ 69,90</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Barbeador</td>
+    <td>-</td>
+    <td>7 unidades</td>
+    <td>35 unidades</td>
+    <td>R$ 9,20</td>
+    <td>R$ 55,20</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Desodorante aer feminino</td>
+    <td>-</td>
+    <td>12 unidades</td>
+    <td>12 unidades</td>
+    <td>R$ 91,80</td>
+    <td>R$ 91,80</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Desodorante aer masculino</td>
+    <td>-</td>
+    <td>1 unidades</td>
+    <td>12 unidades</td>
+    <td>R$ 8,15</td>
+    <td>R$ 97,80</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Absorventes femininos</td>
+    <td>-</td>
+    <td>32 unidades</td>
+    <td>256 unidades</td>
+    <td>R$ 63,92</td>
+    <td>R$ 63,92</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Cloro</td>
+    <td>5L</td>
+    <td>2 unidades</td>
+    <td>40 litros</td>
+    <td>R$ 15,80</td>
+    <td>R$ 63,20</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Sabão em pó</td>
+    <td>5kgs</td>
+    <td>1 unidade </td>
+    <td>20kgs</td>
+    <td>R$ 18,90</td>
+    <td>R$ 75,60</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Detergente</td>
+    <td></td>
+    <td>24 unidades</td>
+    <td>12 litros</td>
+    <td>R$ 49,20</td>
+    <td>R$ 49,20</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Alcool 70%</td>
+    <td>1L</td>
+    <td>1 unidades</td>
+    <td>10 litros</td>
+    <td>R$ 6,19</td>
+    <td>R$ 61,90</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Esponja </td>
+    <td></td>
+    <td>4 unidades</td>
+    <td>24 unidades</td>
+    <td>R$ 3,05</td>
+    <td>R$ 18,30</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Papel higiênico</td>
+    <td>250m</td>
+    <td>8 unidades</td>
+    <td>24 unidades</td>
+    <td>R$ 56,00</td>
+    <td>R$ 168,00</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Desinfetante</td>
+    <td>5L</td>
+    <td>1 unidades</td>
+    <td>20 litros</td>
+    <td>R$ 9,90</td>
+    <td>R$ 39,60</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Toalha de papel</td>
+    <td></td>
+    <td>1000 unidades</td>
+    <td>2000 folhas</td>
+    <td>R$ 15,20</td>
+    <td>R$ 30,40</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fósforo </td>
+    <td>10 caixas</td>
+    <td>50 unidades</td>
+    <td>40 caixas</td>
+    <td>R$ 3,69</td>
+    <td>R$ 14,76</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Saco de lixo</td>
+    <td>50L</td>
+    <td>50 unidades</td>
+    <td>100 unidades</td>
+    <td>R$ 10,10</td>
+    <td>R$ 20,20</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Escova de limpeza</td>
+    <td>-</td>
+    <td>1 unidade</td>
+    <td>6 unidades </td>
+    <td>R$ 4,50</td>
+    <td>R$ 27,00</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Vassoura</td>
+    <td>-</td>
+    <td>1 unidade</td>
+    <td>5 unidades </td>
+    <td>R$ 5,50</td>
+    <td>R$ 27,50</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Saco alvejado (pano para limpeza)</td>
+    <td></td>
+    <td>3 unidades</td>
+    <td>12 unidades </td>
+    <td>R$ 10,20</td>
+    <td>R$ 40,80</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Pá de lixo</td>
+    <td>-</td>
+    <td>1 unidade</td>
+    <td>2 unidades </td>
+    <td>R$ 5,95</td>
+    <td>R$ 11,90</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Balde</td>
+    <td>-</td>
+    <td>1 unidade</td>
+    <td>4 unidades</td>
+    <td>R$ 4,50</td>
+    <td>R$ 22,50</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total:</td>
+    <td>R$ 2.385,64</td>
+  </tr>
+</tbody>
+</table>
 
 Você pode consultar a NFC-e pelo site [www.fazenda.rj.gov.br/nfce/consulta](www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
 
