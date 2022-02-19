@@ -54,7 +54,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   <tr>
     <td class="tg-c3ow">5</td>
     <td class="tg-c3ow">Fralda geriatrica</td>
-    <td class="tg-c3ow">XGG</td>
+    <td class="tg-c3ow">XXG</td>
     <td class="tg-c3ow">8 unidades</td>
     <td class="tg-c3ow">40 unidades</td>
     <td class="tg-dvpl">R$ 17,30</td>
