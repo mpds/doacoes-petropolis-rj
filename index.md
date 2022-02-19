@@ -382,7 +382,6 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
-
-![image](https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png)
-{:.img {max-width: 50%; height: auto;}}
+<img src="https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png" alt="QR Code da chave PIX para doação." height="360" width="300">
+<!-- ![image](https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png) -->
 
