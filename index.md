@@ -7,20 +7,21 @@ O total arrecadado (até o momento) foi R$ 3.854,00. Todas as doações foram re
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
+<!-- .img {max-width: 100%; height: auto;} -->
 
 ## Dia 18 de fevereiro
 <style type="text/css">
 .img {max-width: 100%; height: auto;}
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;border-style:solid;border-width:1px;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
-  will-change:transform}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-bhp8{background-color:#343434;border-color:inherit;color:#c0c0c0;position:-webkit-sticky;position:sticky;text-align:left;
+  top:-1px;vertical-align:top;will-change:transform}
+.tg .tg-0lki{background-color:#343434;border-color:inherit;color:#c0c0c0;position:-webkit-sticky;position:sticky;text-align:center;
+  top:-1px;vertical-align:top;will-change:transform}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-6ic8{border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
@@ -28,13 +29,13 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-ih3h">Quantidade</th>
-    <th class="tg-ih3h">Produto</th>
-    <th class="tg-ih3h">Tamanho</th>
-    <th class="tg-ih3h"><span style="font-weight:normal">Unidade</span></th>
-    <th class="tg-ih3h">Total</th>
-    <th class="tg-j1i3">Valor unitário</th>
-    <th class="tg-j1i3">Valor total do item</th>
+    <th class="tg-0lki">Quantidade</th>
+    <th class="tg-0lki">Produto</th>
+    <th class="tg-0lki">Tamanho</th>
+    <th class="tg-0lki"><span style="font-weight:normal">Unidade</span></th>
+    <th class="tg-0lki">Total</th>
+    <th class="tg-bhp8">Valor unitário</th>
+    <th class="tg-bhp8">Valor total do item</th>
   </tr>
 </thead>
 <tbody>
