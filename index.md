@@ -3,13 +3,13 @@ Olá, visitante! Esta página destina-se a prestação de contas das doações f
 
 Antes de tudo, não há palavras para agradecer a todos que se solidarizaram com a dor imensurável dos que sofreram com as enchentes. Nosso profundo e sincero obrigado aos que ajudaram de uma forma ou de outra.
 
-O total arrecadado (até o momento) foi R$ 3.854,00. Todas as doações foram realizadas usando o PIX. [Nesta página](./recibos.md) você encontra todos os comprovantes.
+O total arrecadado (até o momento) foi R$ 4.509,00. Todas as doações foram realizadas usando o PIX. [Nesta página](./recibos.md) você encontra todos os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
 <!-- .img {max-width: 100%; height: auto;} -->
 
-## Dia 18 de fevereiro
+## 18 de fevereiro
 <style type="text/css">
 .img {max-width: 100%; height: auto;}
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
@@ -383,6 +383,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   </tr>
 </tbody>
 </table></div>
+Estas doações foram entregues neste local na `R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo)`
 
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
 
