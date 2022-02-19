@@ -9,7 +9,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 
 ## Dia 18 de fevereiro
 <style type="text/css">
-.img {max-width: 100%; height: auto;}
+.img {max-width: 80%; height: auto;}
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
