@@ -5,7 +5,7 @@ Antes de tudo, não há palavras para agradecer a todos que se solidarizam com a
 
 O total arrecadado até o momento foi de R$ 3.854,00. Todas as doações foram realizadas usando o PIX. [Nesta página]() você encontra todos os comprovantes.
 
-Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/stories/highlights/18082089718295122/).
+Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
 ## Dia 18 de fevereiro
 <style type="text/css">
