@@ -1,9 +1,9 @@
-# Prestação de contas [\#SOSPetrópolis](https://www.instagram.com/explore/tags/sospetropolis/)
-Olá, visitante! Esta página destina-se a prestação de contas das doações feitas em prol das vítimas da [tragédia ocorrida em Petrópolis - RJ](https://www.cnnbrasil.com.br/nacional/imagens-mostram-a-cidade-de-petropolis-antes-e-depois-das-chuvas/) em fevereiro de 2022.
+# Prestação de contas
+Olá, visitante! Esta página destina-se a prestação de contas das doações feitas em prol das vítimas da [tragédia ocorrida em Petrópolis - RJ](https://www.cnnbrasil.com.br/nacional/imagens-mostram-a-cidade-de-petropolis-antes-e-depois-das-chuvas/) em fevereiro de 2022. [\#SOSPetrópolis](https://www.instagram.com/explore/tags/sospetropolis/)
 
 Antes de tudo, não há palavras para agradecer a todos que se solidarizam com a dor imensurável dos que sofreram com as enchentes. Nosso profundo e sincero agradecimento aos que ajudaram doando ou compartilhando essa pequena iniciativa.
 
-O total arrecadado até o momento foi de R$ 3.854,00. Todas as doações foram realizadas usando o PIX. [Nesta página]() você encontra todos os comprovantes.
+O total arrecadado (até o momento) foi R$ 3.854,00. Todas as doações foram realizadas usando o PIX. [Nesta página]() você encontra todos os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
