@@ -9,7 +9,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 
 ## Dia 18 de fevereiro
 <style type="text/css">
-.img {max-width: 80%; height: auto;}
+<!-- .img {max-width: 80%; height: auto;} -->
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -384,4 +384,5 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
 
 ![image](https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png)
+{:.img {max-width: 50%; height: auto;}}
 
