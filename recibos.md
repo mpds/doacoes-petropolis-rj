@@ -1,2 +1,2 @@
 # Em construção
-[<p>Voltar &larr;</p>](./)
+[Voltar &larr;](./)
