@@ -16,7 +16,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 .img {max-width: 100%; height: auto;}
 @media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 
-<div class="tg-wrap"><table class="tg">
+<div class="tg-wrap"><table cellspacing="0" cellpadding="0" class="tg">
 <thead>
   <tr>
     <th>Quantidade</th>
