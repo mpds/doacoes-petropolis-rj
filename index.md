@@ -14,9 +14,11 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 
 <style type="text/css">
 .img {max-width: 100%; height: auto;}
-@media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+.tg {text-align: center; border: none;}
+@media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
+</style>
 
-<div class="tg-wrap"><table cellspacing="0" cellpadding="0" class="tg">
+<div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
     <th>Quantidade</th>
@@ -50,7 +52,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   <tr>
     <td>5</td>
     <td>Fralda geriatrica</td>
-    <td>XGG</td>
+    <td>XXG</td>
     <td>8 unidades</td>
     <td>40 unidades</td>
     <td>R$ 17,30</td>
@@ -139,7 +141,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   </tr>
   <tr>
     <td>4</td>
-    <td>Pasta de dentes infantil ( 0-2 anos)</td>
+    <td>Pasta de dentes infantil (0-2 anos)</td>
     <td>-</td>
     <td>1 unidade (50g)</td>
     <td>4 unidades</td>
@@ -148,7 +150,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
   </tr>
   <tr>
     <td>5</td>
-    <td>Pasta de dentes infantil ( &gt; 2 anos)</td>
+    <td>Pasta de dentes infantil (&gt; 2 anos)</td>
     <td>-</td>
     <td>1 unidade (50g)</td>
     <td>5 unidades</td>
@@ -368,8 +370,8 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
     <td></td>
     <td></td>
     <td></td>
-    <td>Total:</td>
-    <td>R$ 2.385,64</td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 2.385,64</strong></td>
   </tr>
 </tbody>
 </table></div>
@@ -377,6 +379,383 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo).
 
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
+
+## 19 de fevereiro
+### Roupas íntimas
+
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>50</td>
+    <td>Calcinhas infantis</td>
+    <td>P, M, G</td>
+    <td>1</td>
+    <td>50</td>
+    <td>R$ 3,90</td>
+    <td>R$ 195,00</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>Cuecas infantis</td>
+    <td>P, M, G</td>
+    <td>1</td>
+    <td>37</td>
+    <td>R$ 4,50</td>
+    <td>R$ 166,50</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>Calcinhas femininas</td>
+    <td>U</td>
+    <td>1</td>
+    <td>100</td>
+    <td>R$ 2,90</td>
+    <td>R$ 290,00</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Calçola feminina</td>
+    <td>M, G</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 7,90</td>
+    <td>R$ 79,00</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Calçola feminina</td>
+    <td>G, GG</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 10,90</td>
+    <td>R$ 109,00</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Meias infantis masculinas </td>
+    <td>P, M, G</td>
+    <td>1</td>
+    <td>25</td>
+    <td>R$ 3,50</td>
+    <td>R$ 87,50</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Meias infantis femininas</td>
+    <td>P, M, G</td>
+    <td>1</td>
+    <td>25</td>
+    <td>R$ 3,50</td>
+    <td>R$ 87,50</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Meias femininas</td>
+    <td>U</td>
+    <td>1</td>
+    <td>25</td>
+    <td>R$ 3,90</td>
+    <td>R$ 97,50</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Meias Masculinas</td>
+    <td>U</td>
+    <td>1</td>
+    <td>25</td>
+    <td>R$ 3,90</td>
+    <td>R$ 97,50</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 1.209,50</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total com desconto (30%):</strong></td>
+    <td><strong>R$ 846,65</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Estas doações foram entregues neste local: R. Casemiro de Abreu, 58 - CENTRO (Instituto Alliance).
+
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0230 9274 7800 0122 6500 1000 0102 4210 0028 4979`. 
+
+### Farmácia
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>4</td>
+    <td>Atadura</td>
+    <td>15cm</td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 2,55</td>
+    <td>R$ 10,20</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Atadura</td>
+    <td>12cm</td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 3,55</td>
+    <td>R$ 14,20</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Atadura (malha grossa)</td>
+    <td>15cm</td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 4,45</td>
+    <td>R$ 17,80</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Gaze</td>
+    <td></td>
+    <td>8</td>
+    <td></td>
+    <td>R$ 0,95</td>
+    <td>R$ 22,80</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Água oxigenada</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 1,95</td>
+    <td>R$ 15,60</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Curativo band aid </td>
+    <td></td>
+    <td>30</td>
+    <td></td>
+    <td>R$ 9,30</td>
+    <td>R$ 46,50</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Buscopam gotas (infantil)</td>
+    <td>20ml</td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 18,41</td>
+    <td>R$ 36,82</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Dorflex</td>
+    <td></td>
+    <td>36</td>
+    <td></td>
+    <td>R$ 22,91</td>
+    <td>R$ 91,64</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Loratadina</td>
+    <td></td>
+    <td>12</td>
+    <td></td>
+    <td>R$ 18,38</td>
+    <td>R$ 36,76</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Bucopan adulto</td>
+    <td></td>
+    <td>20</td>
+    <td></td>
+    <td>R$ 18,42</td>
+    <td>R$ 73,68</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Nebacetin</td>
+    <td></td>
+    <td>15g</td>
+    <td></td>
+    <td>R$ 12,01</td>
+    <td>R$ 24,02</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Soro fisiológico</td>
+    <td></td>
+    <td>500ml</td>
+    <td></td>
+    <td>R$ 4,25</td>
+    <td>R$ 21,25</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Antisséptico</td>
+    <td>50ml</td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 22,25</td>
+    <td>R$ 66,75</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Simeticona (infantil e adulto)</td>
+    <td></td>
+    <td>15ml</td>
+    <td></td>
+    <td>R$ 11,18</td>
+    <td>R$ 55,90</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Esparadrapo</td>
+    <td></td>
+    <td>4,5m</td>
+    <td></td>
+    <td>R$ 14,80</td>
+    <td>R$ 88,80</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Oléo de girassol</td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+    <td>R$ 21,45</td>
+    <td>R$ 21,45</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Algodão</td>
+    <td></td>
+    <td>100g</td>
+    <td></td>
+    <td>R$ 5,90</td>
+    <td>R$ 29,50</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dipirona gotas (infantil e adulto)</td>
+    <td></td>
+    <td>10ml</td>
+    <td></td>
+    <td>R$ 7,22</td>
+    <td>R$ 21,66</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Bepantol baby</td>
+    <td></td>
+    <td>30g</td>
+    <td></td>
+    <td>R$ 11,95</td>
+    <td>R$ 71,70</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Nistatina para assaduras</td>
+    <td></td>
+    <td>30g</td>
+    <td></td>
+    <td>R$ 27,05</td>
+    <td>R$ 108,20</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Bromoprida</td>
+    <td></td>
+    <td>20ml</td>
+    <td></td>
+    <td>R$ 22,02</td>
+    <td>R$ 44,04</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Termometro</td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+    <td>R$ 19,85</td>
+    <td>R$ 99,25</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Dipirona 500mg</td>
+    <td></td>
+    <td>10</td>
+    <td></td>
+    <td>R$ 5,98</td>
+    <td>R$ 59,80</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Leite Nan </td>
+    <td></td>
+    <td>800g</td>
+    <td></td>
+    <td>R$ 54,90</td>
+    <td>R$ 109,80</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 1.188,12</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total com desconto:</strong></td>
+    <td><strong>R$ 1.005,48</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo).
+
+Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupom_fiscal.pdf).
 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
