@@ -14,7 +14,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 
 <style type="text/css">
 .img {max-width: 100%; height: auto;}
-.tg {text-align: center; border: none;}
+.tg {text-align: center;}.tg td{border:none;}.tg th{border:none;}.tg tr{border:none;}
 @media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
 </style>
 
@@ -521,7 +521,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Atadura</td>
     <td>15cm</td>
     <td>1</td>
-    <td></td>
+    <td>4</td>
     <td>R$ 2,55</td>
     <td>R$ 10,20</td>
   </tr>
@@ -530,7 +530,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Atadura</td>
     <td>12cm</td>
     <td>1</td>
-    <td></td>
+    <td>4</td>
     <td>R$ 3,55</td>
     <td>R$ 14,20</td>
   </tr>
@@ -539,7 +539,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Atadura (malha grossa)</td>
     <td>15cm</td>
     <td>1</td>
-    <td></td>
+    <td>4</td>
     <td>R$ 4,45</td>
     <td>R$ 17,80</td>
   </tr>
@@ -548,7 +548,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Gaze</td>
     <td></td>
     <td>8</td>
-    <td></td>
+    <td>192</td>
     <td>R$ 0,95</td>
     <td>R$ 22,80</td>
   </tr>
@@ -557,7 +557,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Água oxigenada</td>
     <td></td>
     <td>1</td>
-    <td></td>
+    <td>8</td>
     <td>R$ 1,95</td>
     <td>R$ 15,60</td>
   </tr>
@@ -566,16 +566,16 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Curativo band aid </td>
     <td></td>
     <td>30</td>
-    <td></td>
+    <td>150</td>
     <td>R$ 9,30</td>
     <td>R$ 46,50</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Buscopam gotas (infantil)</td>
-    <td>20ml</td>
-    <td>1</td>
     <td></td>
+    <td>20mL</td>
+    <td>40mL</td>
     <td>R$ 18,41</td>
     <td>R$ 36,82</td>
   </tr>
@@ -584,7 +584,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Dorflex</td>
     <td></td>
     <td>36</td>
-    <td></td>
+    <td>144</td>
     <td>R$ 22,91</td>
     <td>R$ 91,64</td>
   </tr>
@@ -593,7 +593,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Loratadina</td>
     <td></td>
     <td>12</td>
-    <td></td>
+    <td>24</td>
     <td>R$ 18,38</td>
     <td>R$ 36,76</td>
   </tr>
@@ -602,7 +602,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Bucopan adulto</td>
     <td></td>
     <td>20</td>
-    <td></td>
+    <td>80</td>
     <td>R$ 18,42</td>
     <td>R$ 73,68</td>
   </tr>
@@ -610,8 +610,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>2</td>
     <td>Nebacetin</td>
     <td></td>
-    <td>15g</td>
-    <td></td>
+    <td>15gr</td>
+    <td>30gr</td>
     <td>R$ 12,01</td>
     <td>R$ 24,02</td>
   </tr>
@@ -619,17 +619,17 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>5</td>
     <td>Soro fisiológico</td>
     <td></td>
-    <td>500ml</td>
-    <td></td>
+    <td>500mL</td>
+    <td>2,5L</td>
     <td>R$ 4,25</td>
     <td>R$ 21,25</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Antisséptico</td>
-    <td>50ml</td>
-    <td>1</td>
     <td></td>
+    <td>50mL</td>
+    <td>150mL</td>
     <td>R$ 22,25</td>
     <td>R$ 66,75</td>
   </tr>
@@ -637,8 +637,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>5</td>
     <td>Simeticona (infantil e adulto)</td>
     <td></td>
-    <td>15ml</td>
-    <td></td>
+    <td>15mL</td>
+    <td>75mL</td>
     <td>R$ 11,18</td>
     <td>R$ 55,90</td>
   </tr>
@@ -647,7 +647,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Esparadrapo</td>
     <td></td>
     <td>4,5m</td>
-    <td></td>
+    <td>26m</td>
     <td>R$ 14,80</td>
     <td>R$ 88,80</td>
   </tr>
@@ -655,8 +655,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>1</td>
     <td>Oléo de girassol</td>
     <td></td>
-    <td>-</td>
-    <td></td>
+    <td>1</td>
+    <td>1</td>
     <td>R$ 21,45</td>
     <td>R$ 21,45</td>
   </tr>
@@ -664,8 +664,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>5</td>
     <td>Algodão</td>
     <td></td>
-    <td>100g</td>
-    <td></td>
+    <td>100gr</td>
+    <td>500gr</td>
     <td>R$ 5,90</td>
     <td>R$ 29,50</td>
   </tr>
@@ -673,8 +673,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>3</td>
     <td>Dipirona gotas (infantil e adulto)</td>
     <td></td>
-    <td>10ml</td>
-    <td></td>
+    <td>10mL</td>
+    <td>30ml</td>
     <td>R$ 7,22</td>
     <td>R$ 21,66</td>
   </tr>
@@ -682,8 +682,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>6</td>
     <td>Bepantol baby</td>
     <td></td>
-    <td>30g</td>
-    <td></td>
+    <td>30gr</td>
+    <td>180gr</td>
     <td>R$ 11,95</td>
     <td>R$ 71,70</td>
   </tr>
@@ -691,8 +691,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>4</td>
     <td>Nistatina para assaduras</td>
     <td></td>
-    <td>30g</td>
-    <td></td>
+    <td>30gr</td>
+    <td>120gr</td>
     <td>R$ 27,05</td>
     <td>R$ 108,20</td>
   </tr>
@@ -700,8 +700,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>2</td>
     <td>Bromoprida</td>
     <td></td>
-    <td>20ml</td>
-    <td></td>
+    <td>20mL</td>
+    <td>40mL</td>
     <td>R$ 22,02</td>
     <td>R$ 44,04</td>
   </tr>
@@ -709,8 +709,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>5</td>
     <td>Termometro</td>
     <td></td>
-    <td>-</td>
-    <td></td>
+    <td>1</td>
+    <td>5</td>
     <td>R$ 19,85</td>
     <td>R$ 99,25</td>
   </tr>
@@ -719,7 +719,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>Dipirona 500mg</td>
     <td></td>
     <td>10</td>
-    <td></td>
+    <td>100</td>
     <td>R$ 5,98</td>
     <td>R$ 59,80</td>
   </tr>
@@ -727,8 +727,8 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
     <td>2</td>
     <td>Leite Nan </td>
     <td></td>
-    <td>800g</td>
-    <td></td>
+    <td>800gr</td>
+    <td>1,6kg</td>
     <td>R$ 54,90</td>
     <td>R$ 109,80</td>
   </tr>
@@ -756,6 +756,44 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo).
 
 Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupom_fiscal.pdf).
+
+### Gasolina motoboys
+
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>39,74 L</td>
+    <td>Gasolina</td>
+    <td>-</td>
+    <td>-</td>
+    <td>39,74 L</td>
+    <td>R$ 7,549</td>
+    <td>R$ 300,00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total:</td>
+    <td>R$ 300,00</td>
+  </tr>
+</tbody>
+</table></div>
+
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0215 6300 5700 0141 6500 1000 6353 8612 9379 1750`. 
 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
