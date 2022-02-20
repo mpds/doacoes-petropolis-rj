@@ -1,6 +1,6 @@
 # Recibos 
 
-Abaixo estão indicados os recebidos dos pagamentos recebidos por nós.
+Abaixo estão indicados os pagamentos recebidos por nós.
 
 <style type="text/css">
 .img {max-width: 100%; height: auto;}
