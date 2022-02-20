@@ -3,7 +3,7 @@ Olá, visitante! Esta página destina-se a prestação de contas das doações f
 
 Antes de tudo, não há palavras para agradecer a todos que se solidarizaram com a dor imensurável dos que sofreram com as enchentes. Nosso profundo e sincero obrigado aos que ajudaram de uma forma ou de outra.
 
-O total arrecadado (até o momento) foi R$ 4.709,00. Todas as doações foram realizadas usando o PIX. [Nesta página](./recibos.md) você encontra todos os comprovantes.
+O total arrecadado (até o momento) foi <strong>R$ 4.709,00</strong>. Todas as doações foram realizadas usando o PIX. [Nesta página](./recibos.md) você encontra todos os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
