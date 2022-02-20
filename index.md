@@ -787,8 +787,8 @@ Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupo
     <td></td>
     <td></td>
     <td></td>
-    <td>Total:</td>
-    <td>R$ 300,00</td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 300,00</strong></td>
   </tr>
 </tbody>
 </table></div>
