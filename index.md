@@ -1,22 +1,51 @@
+<style type="text/css">
+#toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+.toc_title {
+    font-weight: 700;
+    text-align: center;
+}
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
+.img {max-width: 100%; height: auto;}
+.tg {text-align: center;}.tg td{border:none;}.tg th{border:none;}.tg tr{border:none;}
+@media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
+</style>
+
 # Prestação de contas
 Olá, visitante! Esta página destina-se a prestação de contas das doações feitas em prol das vítimas da [tragédia ocorrida em Petrópolis - RJ](https://www.cnnbrasil.com.br/nacional/imagens-mostram-a-cidade-de-petropolis-antes-e-depois-das-chuvas/) em fevereiro de 2022. [\#SOSPetrópolis](https://www.instagram.com/explore/tags/sospetropolis/)
 
 Antes de tudo, não há palavras para agradecer a todos que se solidarizaram com a dor imensurável dos que sofreram com as enchentes. Nosso profundo e sincero obrigado aos que ajudaram de uma forma ou de outra.
 
+<!-- ## Valor total e recibos -->
+<h2 id="contents">Valor total e recibos</h2>
 O total arrecadado (até o momento) foi <strong>R$ 6.709,00</strong>. Todas as doações foram realizadas usando PIX/TED. [Nesta página](./recibos.md) você encontra os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
 <!-- .img {max-width: 100%; height: auto;} -->
+<div id="toc_container">
+<p class="toc_title">Conteúdo</p>
+  <ul class="toc_list">
+      <li><a href="#first">18 de fev.</a></li>
+      <li><a href="#second">19 de fev.</a></li>
+      <li><a href="#third">20 de fev.</a></li>
+      <li><a href="#fourth">22 de fev.</a></li>
+  </ul>
+</div>
 
-## 18 de fev.
+<!-- ## 18 de fev. -->
+<h2 id="first">18 de fev.</h2>
+
 ### Higiene pessoal e limpeza 
-
-<style type="text/css">
-.img {max-width: 100%; height: auto;}
-.tg {text-align: center;}.tg td{border:none;}.tg th{border:none;}.tg tr{border:none;}
-@media screen and (max-width: 767px) {.tg {width: auto !important; text-align: center;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
-</style>
 
 <div class="tg-wrap"><table class="tg">
 <thead>
@@ -376,11 +405,14 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
 </tbody>
 </table></div>
 
-Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo).
+<!-- Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo). -->
 
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
+<a href="#contents">Voltar ao topo.</a>
 
-## 19 de fev.
+<!-- ## 19 de fev. -->
+<h2 id="second">19 de fev.</h2>
+
 ### Roupas íntimas
 
 <div class="tg-wrap"><table class="tg">
@@ -498,8 +530,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 </tbody>
 </table></div>
 
-Estas doações foram entregues neste local: R. Casemiro de Abreu, 58 - CENTRO (Instituto Alliance).
-
+<!-- Estas doações foram entregues neste local: R. Casemiro de Abreu, 58 - CENTRO (Instituto Alliance). -->
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0230 9274 7800 0122 6500 1000 0102 4210 0028 4979`. 
 
 ### Farmácia
@@ -753,8 +784,7 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 </tbody>
 </table></div>
 
-Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo).
-
+<!-- Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 - CAXAMBU (Mussel Centro Automotivo). -->
 Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupom_fiscal.pdf).
 
 ### Gasolina motoboys
@@ -793,10 +823,14 @@ Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupo
 </tbody>
 </table></div>
 
-Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0215 6300 5700 0141 6500 1000 6353 8612 9379 1750`.
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0215 6300 5700 0141 6500 1000 6353 8612 9379 1750`. 
+<a href="#contents">Voltar ao topo.</a>
 
-## 20 de fev.
+<!-- ## 20 de fev. -->
+<h2 id="third">20 de fev.</h2>
+
 ### Resgate de animais
+
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
@@ -831,9 +865,13 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 </tbody>
 </table></div>
 Você pode visualizar o comprovante desta transação [aqui](./comprovante_clinipet.jpg).
+<a href="#contents">Voltar ao topo.</a>
 
-## 22 de fev.
+<!-- ## 22 de fev. -->
+<h2 id="fourth">22 de fev.</h2>
+
 ### Brinquedos & limpeza
+
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
@@ -1076,6 +1114,7 @@ Você pode visualizar o comprovante desta transação [aqui](./comprovante_clini
 </table></div>
 
 Você pode consultar o cupom fiscal desta compra clicando [aqui](./nossolar_cupom_fiscal.pdf).
+<a href="#contents">Voltar ao topo.</a>
 
 
 # Como ajudar?
