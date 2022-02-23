@@ -3,13 +3,13 @@ Olá, visitante! Esta página destina-se a prestação de contas das doações f
 
 Antes de tudo, não há palavras para agradecer a todos que se solidarizaram com a dor imensurável dos que sofreram com as enchentes. Nosso profundo e sincero obrigado aos que ajudaram de uma forma ou de outra.
 
-O total arrecadado (até o momento) foi <strong>R$ 4.709,00</strong>. Todas as doações foram realizadas usando o PIX. [Nesta página](./recibos.md) você encontra todos os comprovantes.
+O total arrecadado (até o momento) foi <strong>R$ 6.709,00</strong>. Todas as doações foram realizadas usando PIX/TED. [Nesta página](./recibos.md) você encontra os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
 <!-- .img {max-width: 100%; height: auto;} -->
 
-## 18 de fevereiro
+## 18 de fev.
 ### Higiene pessoal e limpeza 
 
 <style type="text/css">
@@ -380,7 +380,7 @@ Estas doações foram entregues neste local: R. Waldemar Ferreira da Silva, 01 -
 
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0206 0572 2304 1790 6501 7000 0402 3011 7068 3782`. 
 
-## 19 de fevereiro
+## 19 de fev.
 ### Roupas íntimas
 
 <div class="tg-wrap"><table class="tg">
@@ -793,7 +793,290 @@ Você pode consultar o cupom fiscal desta compra clicando [aqui](./farmacia_cupo
 </tbody>
 </table></div>
 
-Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0215 6300 5700 0141 6500 1000 6353 8612 9379 1750`. 
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0215 6300 5700 0141 6500 1000 6353 8612 9379 1750`.
+
+## 20 de fev.
+### Resgate de animais
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>-<br></td>
+    <td>PIX Clini Pet Veterinária<br></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>R$ 88,01</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 88,01</strong></td>
+  </tr>
+</tbody>
+</table></div>
+Você pode visualizar o comprovante desta transação [aqui](./comprovante_clinipet.jpg).
+
+## 22 de fev.
+### Brinquedos & limpeza
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>5</td>
+    <td>Dominó</td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 2,99</td>
+    <td>R$ 14,95</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Carrinhos</td>
+    <td>-</td>
+    <td>12</td>
+    <td>24</td>
+    <td>R$ 13,99</td>
+    <td>R$ 27,98</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Bonecas</td>
+    <td>-</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 2,49</td>
+    <td>R$ 24,90</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Livro de colorir </td>
+    <td>A4</td>
+    <td>1</td>
+    <td>19</td>
+    <td>R$ 2,59</td>
+    <td>R$ 49,21</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Lápis de cor 12 cores </td>
+    <td>-</td>
+    <td>12</td>
+    <td>108</td>
+    <td>R$ 5,99</td>
+    <td>R$ 53,91</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Canetinha 12 cores</td>
+    <td>-</td>
+    <td>12</td>
+    <td>120</td>
+    <td>R$ 5,99</td>
+    <td>R$ 59,90</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Giz de cera 12 cores </td>
+    <td>Fino</td>
+    <td>12</td>
+    <td>60</td>
+    <td>R$ 3,49</td>
+    <td>R$ 17,45</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Tinta guache 6 cores</td>
+    <td>-</td>
+    <td>6</td>
+    <td>60</td>
+    <td>R$ 6,99</td>
+    <td>R$ 69,90</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Giz de cera</td>
+    <td>Grosso</td>
+    <td>12</td>
+    <td>24</td>
+    <td>R$ 4,99</td>
+    <td>R$ 9,98</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Massinha para modelar</td>
+    <td>-</td>
+    <td>6</td>
+    <td>36</td>
+    <td>R$ 3,99</td>
+    <td>R$ 23,94</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Massinha para modelar</td>
+    <td>-</td>
+    <td>6</td>
+    <td>24</td>
+    <td>R$ 3,99</td>
+    <td>R$ 15,96</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Jogo Uno</td>
+    <td>-</td>
+    <td>1</td>
+    <td>2</td>
+    <td>R$ 8,99</td>
+    <td>R$ 17,98</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Jogo do mico</td>
+    <td>-</td>
+    <td>1</td>
+    <td>2</td>
+    <td>R$ 10,99</td>
+    <td>R$ 21,98</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Mola </td>
+    <td>-</td>
+    <td>1</td>
+    <td>4</td>
+    <td>R$ 2,99</td>
+    <td>R$ 11,96</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Borracha</td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 0,50</td>
+    <td>R$ 2,50</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Apontador </td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 0,70</td>
+    <td>R$ 3,50</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Lápis </td>
+    <td>-</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 0,50</td>
+    <td>R$ 5,00</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Luva de limpeza </td>
+    <td>M</td>
+    <td>2</td>
+    <td>10</td>
+    <td>R$ 4,99</td>
+    <td>R$ 24,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Escova de limpeza </td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 2,99</td>
+    <td>R$ 14,95</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Folha a4</td>
+    <td>-</td>
+    <td>100</td>
+    <td>1000</td>
+    <td>R$ 5,99</td>
+    <td>R$ 59,90</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Rodo</td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 7,99</td>
+    <td>R$ 39,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Vassoura </td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 9,99</td>
+    <td>R$ 49,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Saco alvejado para limpeza</td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 1,99</td>
+    <td>R$ 9,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Balde </td>
+    <td>-</td>
+    <td>1</td>
+    <td>5</td>
+    <td>R$ 3,99</td>
+    <td>R$ 19,95</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 650,60</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Você pode consultar o cupom fiscal desta compra clicando [aqui](./nossolar_cupom_fiscal.pdf).
+
 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
