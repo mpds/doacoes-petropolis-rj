@@ -39,6 +39,7 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
       <li><a href="#second">19 de fev.</a></li>
       <li><a href="#third">20 de fev.</a></li>
       <li><a href="#fourth">22 de fev.</a></li>
+      <li><a href="#fifth">23 de fev.</a></li>
   </ul>
 </div>
 
@@ -1116,6 +1117,460 @@ Você pode visualizar o comprovante desta transação [aqui](./comprovante_clini
 Você pode consultar o cupom fiscal desta compra clicando [aqui](./nossolar_cupom_fiscal.pdf).
 <a href="#contents">Voltar ao topo.</a>
 
+<h2 id="fifth">23 de fev.</h>
+
+### Limpeza
+
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10</td>
+    <td>Desinfetante</td>
+    <td>5L</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 4,99</td>
+    <td>R$ 49,90</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Alcool 70%</td>
+    <td>1L</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 7,99</td>
+    <td>R$ 79,90</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Detergente</td>
+    <td>500ml</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 2,39</td>
+    <td>R$ 23,90</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sabão em pó surf</td>
+    <td>1Kg</td>
+    <td>1</td>
+    <td>2</td>
+    <td>R$ 7,99</td>
+    <td>R$ 15,98</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Sabão em pó tixan</td>
+    <td>1Kg</td>
+    <td>1</td>
+    <td>8</td>
+    <td>R$ 7,70</td>
+    <td>R$ 61,60</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Cloro</td>
+    <td>1L</td>
+    <td>1</td>
+    <td>10</td>
+    <td>R$ 2,99</td>
+    <td>R$ 29,90</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Copo descartavel</td>
+    <td>Café</td>
+    <td>100</td>
+    <td>1</td>
+    <td>R$ 2,49</td>
+    <td>R$ 2,49</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 263,67</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0207 7059 9700 0124 6511 3000 5298 4810 0530 9842`. 
+
+### Brinquedos & limpeza
+
+<div class="tg-wrap"><table class='tg'>
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Total</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>5</td>
+    <td>Vassoura</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 9,99</td>
+    <td>R$ 49,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Balde </td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 3,99</td>
+    <td>R$ 19,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Escova de roupa</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 2,99</td>
+    <td>R$ 14,95</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Pá de lixo</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 1,99</td>
+    <td>R$ 19,90</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Esponja</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 1,00</td>
+    <td>R$ 10,00</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Saco alvejado</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 1,99</td>
+    <td>R$ 9,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Rodo</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 7,99</td>
+    <td>R$ 39,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Jogo da memoria </td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 9,99</td>
+    <td>R$ 49,95</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Jogo do mico</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 10,99</td>
+    <td>R$ 21,98</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Livro de colorir </td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 2,59</td>
+    <td>R$ 51,80</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Mola</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 2,99</td>
+    <td>R$ 20,93</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Saco plastico</td>
+    <td>10x15</td>
+    <td>1000</td>
+    <td></td>
+    <td>R$ 13,90</td>
+    <td>R$ 13,90</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Luva </td>
+    <td>G</td>
+    <td>2</td>
+    <td></td>
+    <td>R$ 4,99</td>
+    <td>R$ 24,95</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Apontador</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 0,70</td>
+    <td>R$ 3,50</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Borracha</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 0,50</td>
+    <td>R$ 2,50</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Bolhas de sabão</td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td>R$ 1,99</td>
+    <td>R$ 23,88</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 378,04</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0213 0470 1700 0146 6500 2000 0672 8411 0113 5348`. 
+
+### Higiene pessoal
+
+<div class="tg-wrap"><table class='tg'>
+<thead>
+  <tr>
+    <th>Quantidade</th>
+    <th>Produto</th>
+    <th>Tamanho</th>
+    <th>Unidade</th>
+    <th>Valor unitário</th>
+    <th>Valor total do item</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10</td>
+    <td>Shampoo e condicionador 2x1 infantil </td>
+    <td></td>
+    <td></td>
+    <td>R$ 9,90</td>
+    <td>R$ 99,00</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Cotonete</td>
+    <td>-</td>
+    <td>280</td>
+    <td>R$ 4,49</td>
+    <td>R$ 22,45</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Algodão</td>
+    <td>25G</td>
+    <td>1</td>
+    <td>R$ 1,50</td>
+    <td>R$ 16,50</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Cortador de unha</td>
+    <td></td>
+    <td>1</td>
+    <td>R$ 6,10</td>
+    <td>R$ 122,00</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Fralda Huggies</td>
+    <td>P</td>
+    <td>32</td>
+    <td>R$ 27,99</td>
+    <td>R$ 55,98</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Fralda Huggies</td>
+    <td>M</td>
+    <td>32</td>
+    <td>R$ 27,99</td>
+    <td>R$ 55,98</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Fralda Huggies</td>
+    <td>G</td>
+    <td>32</td>
+    <td>R$ 27,99</td>
+    <td>R$ 83,97</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fralda Huggies</td>
+    <td>XG</td>
+    <td>32</td>
+    <td>R$ 27,99</td>
+    <td>R$ 111,96</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Fralda Huggies</td>
+    <td>XXG </td>
+    <td>32</td>
+    <td>R$ 27,99</td>
+    <td>R$ 139,95</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Escova para cabelos</td>
+    <td></td>
+    <td>1</td>
+    <td>R$ 2,30</td>
+    <td>R$ 23,00</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Alcool em gel</td>
+    <td></td>
+    <td>1</td>
+    <td>R$ 1,89</td>
+    <td>R$ 37,80</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Mascaras descartáveis </td>
+    <td></td>
+    <td>10</td>
+    <td>R$ 7,99</td>
+    <td>R$ 159,80</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Pente para cabelos</td>
+    <td></td>
+    <td>4</td>
+    <td>R$ 10,20</td>
+    <td>R$ 61,20</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Sabonete 2x1 masculino</td>
+    <td></td>
+    <td>1</td>
+    <td>R$ 9,99</td>
+    <td>R$ 39,96</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pente e escova para bebes </td>
+    <td></td>
+    <td>2</td>
+    <td>R$ 10,90</td>
+    <td>R$ 43,60</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Kit shampoo e condicionador </td>
+    <td></td>
+    <td>1</td>
+    <td>R$ 8,99</td>
+    <td>R$ 80,91</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Condicionadores </td>
+    <td></td>
+    <td></td>
+    <td>R$ 4,57</td>
+    <td>R$ 36,56</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Cortador de unha infantil</td>
+    <td></td>
+    <td></td>
+    <td>R$ 6,50</td>
+    <td>R$ 32,50</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Barbeador</td>
+    <td></td>
+    <td>5</td>
+    <td>R$ 4,79</td>
+    <td>R$ 47,90</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total:</strong></td>
+    <td><strong>R$ 1.271,02</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total com desconto:</strong></td>
+    <td><strong>R$ 1.255,02</strong></td>
+  </tr>
+</tbody>
+</table></div>
+
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0210 7392 2700 0379 6501 7000 1297 4412 1128 4857`.
+<a href="#contents">Voltar ao topo.</a>
 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
