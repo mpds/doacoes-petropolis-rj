@@ -27,7 +27,7 @@ Antes de tudo, não há palavras para agradecer a todos que se solidarizaram com
 
 <!-- ## Valor total e recibos -->
 <h2 id="contents">Valor total e recibos</h2>
-O total arrecadado (até o momento) foi <strong>R$ 6.709,00</strong>. Todas as doações foram realizadas usando PIX/TED. [Nesta página](./recibos.md) você encontra os comprovantes.
+O total arrecadado (até o momento) foi <strong>R$ 7.059,00</strong>. Todas as doações foram realizadas usando PIX/TED. [Nesta página](./recibos.md) você encontra os comprovantes.
 
 Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram.com/luikrl/).
 
