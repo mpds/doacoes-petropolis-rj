@@ -1117,7 +1117,7 @@ Você pode visualizar o comprovante desta transação [aqui](./comprovante_clini
 Você pode consultar o cupom fiscal desta compra clicando [aqui](./nossolar_cupom_fiscal.pdf).
 <a href="#contents">Voltar ao topo.</a>
 
-<h2 id="fifth">23 de fev.</h>
+<h2 id="fifth">23 de fev.</h2>
 
 ### Limpeza
 
