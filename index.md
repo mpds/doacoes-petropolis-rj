@@ -1572,8 +1572,9 @@ Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/
 Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0210 7392 2700 0379 6501 7000 1297 4412 1128 4857`.
 <a href="#contents">Voltar ao topo.</a>
 
+<!-- 
 # Como ajudar?
 Compartilhe e/ou realize um PIX usando o `QR Code` abaixo.
 
-![image](https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png)
+![image](https://user-images.githubusercontent.com/25796259/154776201-e6834623-71d5-4bdf-8b53-828778d35bdb.png) -->
 
