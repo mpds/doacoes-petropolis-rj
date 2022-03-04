@@ -403,6 +403,15 @@ Para mais informações e mídias, no Instagram: [@luikrl](https://www.instagram
     <td><strong>Total:</strong></td>
     <td><strong>R$ 2.385,64</strong></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><strong>Total com desconto:</strong></td>
+    <td><strong>R$ 2.369,49</strong></td>
+  </tr>
 </tbody>
 </table></div>
 
