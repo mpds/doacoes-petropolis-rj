@@ -1218,7 +1218,7 @@ Você pode consultar o cupom fiscal desta compra clicando [aqui](./nossolar_cupo
 </tbody>
 </table></div>
 
-Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0207 7059 9700 0124 6511 3000 5298 4810 0530 9842`. 
+Você pode consultar a NFC-e desta compra pelo site [www.fazenda.rj.gov.br/nfce/consulta](http://www.fazenda.rj.gov.br/nfce/consulta) utilizando a seguinte chave de acesso: `3322 0207 7059 9700 0124 6511 3000 5298 4810 0530 3842`. 
 
 ### Brinquedos & limpeza
 
